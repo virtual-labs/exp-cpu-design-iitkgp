@@ -2,37 +2,58 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The program controller of digital computer works",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Synchronously",
+        "b": "Progressively",
+        "c": "Asynchronously",
+        "d": "At random"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The minimum time delay required between initiation of two successive memory operations is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Transmission time",
+        "b": "Memory access time",
+        "c": "Memory cycle time",
+        "d": "Fetch Time"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "General purpose internal registers are also called",
+      "answers": {
+        "a": "Stack",
+        "b": "Address register",
+        "c": "Status register",
+        "d": "Scratch pad"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The refreshing rate of dynamic RAMs is approximately once in",
+      "answers": {
+        "a": "Fifty milli seconds",
+        "b": "Two micro seconds",
+        "c": "Two milli seconds",
+        "d": "Two micro seconds"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Microprogramming is designing of",
+      "answers": {
+        "a": "ALU",
+        "b": "Control unit",
+        "c": "CPU",
+        "d": "None of these"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
