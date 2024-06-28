@@ -2,37 +2,69 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "How many units in a single bus structure can communicate at a time?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "4",
+        "b": "3",
+        "c": "2",
+        "d": "1"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A single bus structure is found in generally",
+      "answers": {
+        "a": "Main frames",
+        "b": "Super computers",
+        "c": "Mini-and-micro computers",
+        "d": "High performance machines"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the advantage of memory interfacing?",
+      "answers": {
+        "a": "Effective speed of the memory is increased",
+        "b": "A large memory is obtained",
+        "c": "The cost of the memory is reduced",
+        "d": "A volatile memory is obtained"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "During read operation what is fetched by the CPU?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Only instruction",
+        "b": "Only data",
+        "c": "Only address",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The technique which repeatedly uses the same block of internal storage during different stage of problem is called",
+      "answers": {
+        "a": "Swapping",
+        "b": "overlapping",
+        "c": "Overlay",
+        "d": "None of these"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "n a computer, the larger RAM increases the speed, because it reduces",
+      "answers": {
+        "a": "Disk I/Os",
+        "b": "Need for external memory",
+        "c": "Need for a data-wide path",
+        "d": "None of these"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
