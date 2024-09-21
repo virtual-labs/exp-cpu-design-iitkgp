@@ -6,14 +6,14 @@ Virtual Labs IIT Kharagpur.
 LinkedIn: https://in.linkedin.com/in/akraonandula/
  */
  hr{
-    height: 3px;
-    border-width: 0px;
-    color: blue;
-    background-color: blue;
-  }
+  height: 3px;
+  border-width: 0px;
+  color: blue;
+  background-color: blue;
+}
 
 embed{
-  width: 100%;
-  min-height: 500px;
-  
+width: 100%;
+min-height: 500px;
+
 }
